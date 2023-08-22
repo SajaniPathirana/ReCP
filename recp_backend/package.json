@@ -1,7 +1,7 @@
 {
   "type": "module",
   "script": {
-    "start": "npm src/index.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
