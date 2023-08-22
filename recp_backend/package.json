@@ -1,8 +1,7 @@
 {
   "type": "module",
   "script": {
-    "start": "nodemon src/index.js",
-    "build": "echo 'No build step needed for backend.'"
+    "start": "npm src/index.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
